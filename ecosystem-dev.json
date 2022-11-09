@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "name": "c18-site-dev",
+      "script": "./dist/src/main.js",
+      "env": {
+        "NODE_ENV": "dev"
+      }
+    }
+  ]
+}
